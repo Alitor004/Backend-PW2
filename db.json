@@ -1,0 +1,43 @@
+{
+  "prudutos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "nome": "Algo",
+      "validade": "2030-07-12",
+      "precoProduto": 50,
+      "id": 2
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Boberto",
+      "idadeFuncionario": 26
+    },
+    {
+      "nome": "Alex",
+      "idadeFuncionario": 18,
+      "id": 2
+    },
+    {
+      "nome": "Mauricio",
+      "idadeFuncionario": 17,
+      "id": 3
+    },
+    {
+      "nome": "Luiz",
+      "idadeFuncionario": 28,
+      "id": 4
+    },
+    {
+      "nome": "Robert",
+      "idadeFuncionario": 39,
+      "id": 5
+    }
+  ]
+}
